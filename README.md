@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @abinav561
 - 👀 I’m interested in Devops
-- 🌱 I’m currently learning GIT
 - 💞️ I’m looking to collaborate on Devops Projects
 - 📫 How to reach me abinav.gujja@gmail.com
 - 😄 Pronouns: ...
